@@ -3,19 +3,7 @@
 
 <p><a href ="/BasicWebDev/assignment1.html" target= "blank">Assigment 1</a></p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Text Change</title>
-</head>
-<body>
-
-<p id="linkText"><a href="/BasicWebDev/assignment1.html" target="_blank" onclick="changeText()">Assignment 1</a></p>
-
-<script>
-    function changeText( <p> <bloquote>
+<p> <bloquote>
 <h1> Dancer </h1> </bloquote></p>
 
 
@@ -29,13 +17,5 @@ Her mind suddenly went blank.
 
 The routine she had practiced for weeks seemed to slip away from her memory. She glanced at the audience, panic rising as her hands started trembling. Each step became a struggle, and Emily felt utterly lost. <em>Why was this happening now?</em>
 
-She could feel the pressure, the eyes on her, and the weight of expectations. But even though her mind was clouded, her heart knew something important: she was <b>here</b>, she had made it to the stage, and that was a victory on its own. ) {
-       
-        document.getElementById("linkText").innerHTML = "You clicked Assignment 1!";
-    }
-</script>
-
-</body>
-</html>
-
+She could feel the pressure, the eyes on her, and the weight of expectations. But even though her mind was clouded, her heart knew something important: she was <b>here</b>, she had made it to the stage, and that was a victory on its own.
 

@@ -1,21 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery --- Sport Cars </title>
+    <style>
+        body {
+            font-family: Impact, sans-serif;
+        }
+        h1 {
+            text-align: center;
+        }
+        .gallery {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        .gallery img {
+            height: 200px;  
+            width: auto;  
+            border: 2px solid #000000;
+            border-radius: 8px;
+        }
+        .gallery a {
+            text-align: center;
+            display: block;
+            margin-top: 10px;
+            color: blue;
+            text-decoration: none;
+        }
+        .gallery a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
 
-<h1> studenteeeway </h1>
+    <h1> <i> Sport Cars </i></h1>
+    <div class="gallery">
+        
+        <div>
+            <a href="URL-of-Source-Page1" target="_blank">
+                <img src=" https://preview.redd.it/d74538ie06881.png?width=1080&crop=smart&auto=webp&s=f4906a755456eb8a1b22f0bd894c84a47403eed8 " alt=" NISSAN ">
+            </a>
+            <a href=" https://www.reddit.com/r/assettocorsa/comments/rpzsu3/got_some_gran_turismo_vibes_on_assetto_with/ " target="_blank">Source Page</a>
+        </div>
 
-<p><a href ="/BasicWebDev/assignment1.html" target= "blank">Assigment 1</a></p>
+        
+        <div>
+            <a href="URL-of-Source-Page2" target="_blank">
+                <img src=" https://preview.redd.it/new-to-ac-photography-any-suggestions-v0-cdhpdpocbsdc1.png?width=640&crop=smart&auto=webp&s=94c3ece3507cbecff04f5c1055a6857fefaac3d9 " alt=" PORSHE ">
+            </a>
+            <a href=" https://www.reddit.com/r/assettocorsa/comments/19c24e6/new_to_ac_photography_any_suggestions/ " target="_blank">Source Page</a>
+        </div>
 
-<p> <bloquote>
-<h1> Dancer </h1> </bloquote></p>
+        
+        <div>
+            <a href="URL-of-Source-Page3" target="_blank">
+                <img src=" https://i.ytimg.com/vi/K82PEEG2z1s/maxresdefault.jpg " alt=" BMW ">
+            </a>
+            <a href=" https://www.youtube.com/watch?app=desktop&v=K82PEEG2z1s " target="_blank">Source Page</a>
+        </div>
 
+        
+    </div>
 
- Emily had always dreamed of becoming a ballet dancer. From a young age, she would watch professional ballerinas on TV and try to copy their graceful movements in front of the mirror. But, no matter how hard she tried, it was all <em>gainless</em>. She begged her parents every day, saying, <q>All I want is to attend ballet school!</q> But the answer was always the same—<em>no</em>. Still, her persistence wore them down. Eventually, <strong>her parents gave in</strong> and sent her to ballet school, tired of hearing her plead.
+</body>
+</html>
 
-After countless hours of hard work and dedication, Emily received an invitation to participate in a local ballet competition. In the days leading up to the event, she couldn’t help but <i>imagine</i> the applause and the spotlight shining down on her. <q>What if I fail? What if I fall?</q> she thought, but quickly brushed the worries aside. She was determined. <strong>She had to succeed</strong>.
-
-When her name was called, Emily stepped onto the stage. <cite>The lights were bright</cite>, almost blinding her, and her legs felt like jelly. <blockquote>“This is my moment,”</blockquote> she whispered to herself as the music began to play. But then, something <b>went wrong</b>.
-
-Her mind suddenly went blank.
-
-The routine she had practiced for weeks seemed to slip away from her memory. She glanced at the audience, panic rising as her hands started trembling. Each step became a struggle, and Emily felt utterly lost. <em>Why was this happening now?</em>
-
-She could feel the pressure, the eyes on her, and the weight of expectations. But even though her mind was clouded, her heart knew something important: she was <b>here</b>, she had made it to the stage, and that was a victory on its own.
 

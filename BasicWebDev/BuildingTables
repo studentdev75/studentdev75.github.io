@@ -1,1 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Data Table</title>
+</head>
+<body>
+
+    
+    <table border="1">
+        <caption>Comparison of Smartphone Features</caption>
+        <tr>
+            <th>Model</th>
+            <th>Battery Life (hours)</th>
+            <th colspan="2">Camera Quality</th>
+        </tr>
+        <tr>
+            <td>Phone A</td>
+            <td>12</td>
+            <td>12 MP</td>
+            <td>1080p Video</td>
+        </tr>
+        <tr>
+            <td>Phone B</td>
+            <td>15</td>
+            <td>16 MP</td>
+            <td>4K Video</td>
+        </tr>
+        <tr>
+            <td>Phone C</td>
+            <td>10</td>
+            <td>8 MP</td>
+            <td>720p Video</td>
+        </tr>
+    </table>
+
+    
+    <h2>Conclusions</h2>
+    <ul>
+        <li>Phone B has the longest battery life among the models listed.</li>
+        <li>Phone C has the lowest camera resolution but is likely more affordable.</li>
+        <li>Phone A offers a balance of battery life and camera quality.</li>
+    </ul>
+
+</body>
+</html>
 
